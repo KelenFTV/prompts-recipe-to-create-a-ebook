@@ -48,12 +48,11 @@ Canvas IA：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Estátua da liberdade remetendo a ideia de prosperidade financeira|
-| título | Pessoa analisando suas contas, planejando|
-| título | ícones sendo divididos em categorias saúde, alimentação, lazer|
-| título | cofrinho do porquinho remetendo a ideia de prosperidade financeira|
-| título | Gerar 2 imagens mostrando que com o objetivo e planejamento financeiro, os sonhos são realizados|
-
+| imagem | Estátua da liberdade remetendo a ideia de prosperidade financeira|
+| imagem | Pessoa analisando suas contas, planejando|
+| imagem | ícones sendo divididos em categorias saúde, alimentação, lazer|
+| imagem | cofrinho do porquinho remetendo a ideia de prosperidade financeira|
+| imagem | Gerar 2 imagens mostrando que com o objetivo e planejamento financeiro, os sonhos são realizados|
 
 
 
