@@ -48,7 +48,16 @@ Canvas IA：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Uma pessoa aparentando ser bem sucedida e com um futuro promissor, pixel art style --v 5.1 |
+| título | Estátua da liberdade remetendo a ideia de prosperidade financeira|
+| título | Pessoa analisando suas contas, planejando|
+| título | ícones sendo divididos em categorias saúde, alimentação, lazer|
+| título | cofrinho do porquinho remetendo a ideia de prosperidade financeira|
+| título | Gerar 2 imagens mostrando que com o objetivo e planejamento financeiro, os sonhos são realizados|
+
+
+
+
+
 
 ## ✨ Features
 
@@ -62,7 +71,7 @@ Canvas IA：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, Canva.
 
 ## 👨‍💻 Expert
 
