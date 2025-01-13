@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/KelenFTV/output/Ebook_educação_financeira_kelen.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/KelenFTV/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20_%20educação%20financeira%20_%20kelen.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
