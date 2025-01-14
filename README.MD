@@ -80,7 +80,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       margin=10 
       width=80 
       
-    />
+    
     <p>&nbsp&nbsp&nbspKelen Vazquez<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/KelenFTV">
