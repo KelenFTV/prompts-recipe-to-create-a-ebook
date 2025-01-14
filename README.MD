@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/objetivo.png">
+    <img width="100" src=".github/assets/poupar.png"> 
 </p>
 
 
@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/futuro.png"
+    src="./assets/clone.png"
     width="400"  
 />
 </p>
