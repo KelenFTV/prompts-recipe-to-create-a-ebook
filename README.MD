@@ -81,15 +81,13 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    
     <p>&nbsp&nbsp&nbspKelen Vazquez<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/KelenFTV">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/kelen-vazquez-6">
-Linkedin</a>
+    <a href=" www.linkedin.com/in/kelen-vazquez-6">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/kelen.ferreira9/">
+    <a href=" https://www.instagram.com/kelen.ferreira9/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
