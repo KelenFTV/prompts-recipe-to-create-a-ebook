@@ -87,7 +87,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     GitHub</a>&nbsp;|&nbsp;
     <a href=" www.linkedin.com/in/kelen-vazquez-6">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href=" https://www.instagram.com/kelen.ferreira9/">
+    <a href="https://www.instagram.com/kelen.ferreira9/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
